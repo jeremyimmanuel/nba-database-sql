@@ -1,0 +1,8 @@
+[Sun Mar 17 20:38:33 2019] [notice] Apache/2.2.21 (Win32) PHP/5.3.9 configured -- resuming normal operations
+[Sun Mar 17 20:38:33 2019] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 17 20:38:33 2019] [notice] Parent: Created child process 26112
+[Sun Mar 17 20:38:34 2019] [notice] Child 26112: Child process is running
+[Sun Mar 17 20:38:34 2019] [notice] Child 26112: Acquired the start mutex.
+[Sun Mar 17 20:38:34 2019] [notice] Child 26112: Starting 64 worker threads.
+[Sun Mar 17 20:38:34 2019] [notice] Child 26112: Starting thread to listen on port 8080.
+[Sun Mar 17 20:38:34 2019] [notice] Child 26112: Starting thread to listen on port 8080.
